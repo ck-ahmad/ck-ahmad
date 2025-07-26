@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/ck-ahmad/ck-ahmad/main/hw1.png" alt="logo" style="width:100%;" />
 <h1 align="center">Hi 👋, I'm Ahmad</h1>
 <h3 align="center">Python & C++ developer from Pakistan, passionate about clean code and creative solutions.</h3>
 
