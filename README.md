@@ -42,7 +42,7 @@
 - 🌱 Exploring **Machine Learning**, **AI**, and **Full-Stack Web Development**
 - 💻 Proficient in **Python, C++, SQL, Flask, Frontend Development**
 - 🧠 Experienced in **Speech Recognition**, **Text-to-Speech**, **NLP**, **API Integration**, and **Database Design**
-- 📄 [Resume & Experience Details](https://docs.google.com/document/d/1mIePPV_8crJn5HZy-e9w3woC1_ZR3gpy/edit)
+- 📄 [Resume & Experience Details](https://docs.google.com/document/d/1SM_rihKewd9PThPdreww3EEzlxYODYjMpIzSYFtv_I4/edit?tab=t.0#heading=h.s819m2s8lrlc)
 
 ---
 
