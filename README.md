@@ -11,8 +11,6 @@
   </a>
 </p>
 
-
-
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ck-ahmad&theme=algolia&margin-w=15&margin-h=15&row=2&column=3" alt="GitHub Trophies" />
@@ -33,6 +31,7 @@
 - 🌱 Learning **Machine Learning & AI**  
 - 👨‍💻 Open-source & personal projects on [My GitHub](https://github.com/ck-ahmad) and [My OLD GitHub](https://github.com/Ahmadleo-tech)  
 - 💬 Fluent in **Python, C++, SQL, Flask, Data Analysis, AI & API integration, and Front‑end development**  
+- 🎓 Skilled in **Speech Recognition**, **Text-to-Speech (pyttsx3)**, **Natural Language Processing**, **Database Design**, and **REST API Development**  
 - 📫 **Email:** ahmadleo498@gmail.com  
 - 📄 [Resume & Experience Details](https://docs.google.com/document/d/1mIePPV_8crJn5HZy-e9w3woC1_ZR3gpy/edit)  
 - ⚡ Fun fact: *"I believe there's always room to grow — continuously sharpening my skills ✨"*
@@ -49,7 +48,7 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"/></a>
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://www.raw.githubcontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://www.raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40"/></a>
   <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40"/></a>
   <a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40"/></a>
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40"/></a>
@@ -65,9 +64,10 @@
 
 | Role | Company | Duration | Highlights |
 |------|---------|----------|------------|
-| **Data Analyst Intern** | Elevvo (Remote) | *[Start Month Year] – Present* | Streamlining search engine analytics, designing dashboards, and optimizing datasets. |
-| **[Previous Role Title]** | [Company Name] | *[Start – End]* | Developed features in Python/C++, improved processes, and collaborated on cross-functional projects. (Customize with your actual resume details.) |
-| **[Another Position]** | [Previous Company Name] | *[Start – End]* | (Add more rows for past roles, summarizing responsibilities, tech used, and impact.) |
+| **Data Analyst Intern** | Elevvo (Remote) | *Feb 2024 – Present* | Streamlining search engine analytics, designing dashboards, and optimizing datasets. |
+| **Python Developer Intern** | Oasis Infobyte | *Dec 2023 – Jan 2024* | Developed Python-based tools for automation and data parsing. |
+| **Python Developer Intern** | Codveda | *Nov 2023 – Dec 2023* | Built command-line utilities and contributed to backend APIs. |
+| **Python Developer Intern** | CodeAlpha | *Oct 2023 – Nov 2023* | Created projects using speech recognition, Flask, and text-to-speech integration. |
 
 ---
 
