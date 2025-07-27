@@ -5,18 +5,37 @@
 <img align= "right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ck-ahmad&label=Profile%20views&color=0e75b6&style=flat" alt="ck-ahmad" /> </p>
 
-- 🔭 I’m currently working as a Remote Data Analyst Intern at Elevvo! **Current Work**
+<!-- Profile View Counter -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ck-ahmad&label=Profile%20views&color=0e75b6&style=flat" alt="ck-ahmad" />
+</p>
+
+<!-- GitHub Profile Trophy -->
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ck-ahmad&theme=algolia&margin-w=15&margin-h=15&row=2&column=3" alt="GitHub Trophies" />
+  </a>
+</p>
+
+<!-- Twitter Badge -->
+<p align="left">
+  <a href="https://twitter.com/your_twitter_handle" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/your_twitter_handle?logo=twitter&style=for-the-badge" alt="Twitter Follow Badge" />
+  </a>
+</p>
+
+
+- 🔭 I’m currently working as a Remote Data Analyst Intern at Elevvo! **Search Engine**
 
 - 🌱 I’m currently learning **ML & Al**
 
--👨‍💻 All of my projects are available at [**My GitHub**](https://github.com/ck-ahmad) and [**My old GitHub**](https://github.com/Ahmadleo-tech).
-
+- 👨‍💻 All of my projects are available at [[**My GitHub**](https://github.com/ck-ahmad)]([**My GitHub**](https://github.com/ck-ahmad))
 
 - 💬 Ask me about **Python and C++ programming, SQL, Flask web development, data analysis, API & AI integration, and front-end development.**
 
 - 📫 How to reach me **ahmadleo498@gmail.com**
 
-- 📄 Know about my experiences [**Download Resume**](https://docs.google.com/document/d/1mIePPV_8crJn5HZy-e9w3woC1_ZR3gpy/edit)
+- 📄 Know about my experiences [[**Download Resume**](https://docs.google.com/document/d/1mIePPV_8crJn5HZy-e9w3woC1_ZR3gpy/edit)]([**Download Resume**](https://docs.google.com/document/d/1mIePPV_8crJn5HZy-e9w3woC1_ZR3gpy/edit))
 
 - ⚡ Fun fact **I believe there's always room to grow — continuously working to sharpen my skills. ✨**
 
@@ -36,3 +55,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ck-ahmad&show_icons=true&locale=en&layout=compact" alt="ck-ahmad" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ck-ahmad&show_icons=true&locale=en" alt="ck-ahmad" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ck-ahmad&" alt="ck-ahmad" /></p>
