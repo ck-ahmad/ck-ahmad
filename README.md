@@ -6,8 +6,11 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ck-ahmad&label=Profile%20views&color=0e75b6&style=flat" alt="ck-ahmad" />
+  <a href="https://instagram.com/ck_ahmad_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow%20@ck_ahmad_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Follow Badge" />
+  </a>
 </p>
+
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
