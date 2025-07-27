@@ -17,7 +17,12 @@
 
 <p align="left">
   <a href="https://twitter.com/ck_ahmad" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/ck_ahmad?logo=twitter&style=for-the-badge" alt="Twitter Follow Badge" />
+   <p align="left">
+  <a href="https://instagram.com/ck_ahmad" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow%20@ck_ahmad-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Follow Badge" />
+  </a>
+</p>
+
   </a>
 </p>
 
