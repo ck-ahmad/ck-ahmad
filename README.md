@@ -12,6 +12,7 @@
 </p>
 
 
+
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ck-ahmad&theme=algolia&margin-w=15&margin-h=15&row=2&column=3" alt="GitHub Trophies" />
@@ -21,10 +22,6 @@
 <p align="left">
   <a href="https://twitter.com/ck_ahmad" target="_blank">
    <p align="left">
-  <a href="https://instagram.com/ck_ahmad" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow%20@ck_ahmad-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Follow Badge" />
-  </a>
-</p>
 
   </a>
 </p>
