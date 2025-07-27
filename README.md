@@ -68,17 +68,6 @@
 
 ---
 
-### 🎯 Experience
-
-| Role | Company | Duration | Highlights |
-|------|---------|----------|------------|
-| **Data Analyst Intern** | Elevvo (Remote) | *Feb 2024 – Present* | Streamlining search engine analytics, designing dashboards, and optimizing datasets. |
-| **Python Developer Intern** | Oasis Infobyte | *Dec 2023 – Jan 2024* | Developed Python-based tools for automation and data parsing. |
-| **Python Developer Intern** | Codveda | *Nov 2023 – Dec 2023* | Built command-line utilities and contributed to backend APIs. |
-| **Python Developer Intern** | CodeAlpha | *Oct 2023 – Nov 2023* | Created projects using speech recognition, Flask, and text-to-speech integration. |
-
----
-
 ### 💼 Tech Stack & Developer Highlights
 
 <p align="left">
@@ -107,6 +96,7 @@
 ### 🧑‍💻 Internship Experience & Developer Roles
 <p align="left"> <img src="https://img.shields.io/badge/Data%20Analyst%20Intern-Elevvo-blue?style=for-the-badge" alt="Elevvo"/> <img src="https://img.shields.io/badge/Duration-Feb_2024_–_Present-lightgrey?style=flat-square"/> <img src="https://img.shields.io/badge/Focus-Dashboarding_&_Analytics-critical?style=flat-square"/> </p> <p align="left"> <img src="https://img.shields.io/badge/Python%20Developer%20Intern-Oasis_Infobyte-green?style=for-the-badge" alt="Oasis Infobyte"/> <img src="https://img.shields.io/badge/Duration-Dec_2023_–_Jan_2024-lightgrey?style=flat-square"/> <img src="https://img.shields.io/badge/Work-Automation_&_DataParsing-orange?style=flat-square"/> </p> <p align="left"> <img src="https://img.shields.io/badge/Python%20Developer%20Intern-Codveda-purple?style=for-the-badge" alt="Codveda"/> <img src="https://img.shields.io/badge/Duration-Nov_2023_–_Dec_2023-lightgrey?style=flat-square"/> <img src="https://img.shields.io/badge/Work-CLI_Tools_&_API_Dev-blueviolet?style=flat-square"/> </p> <p align="left"> <img src="https://img.shields.io/badge/Python%20Developer%20Intern-CodeAlpha-red?style=for-the-badge" alt="CodeAlpha"/> <img src="https://img.shields.io/badge/Duration-Oct_2023_–_Nov_2023-lightgrey?style=flat-square"/> <img src="https://img.shields.io/badge/Projects-Speech_&_Flask_Apps-yellow?style=flat-square"/> </p>
 
+### 🎯 Achievements &  Certifications
 <p align="left">
   <img src="https://img.shields.io/badge/Hackathon Winner-3rd Place 🥉-28A745?style=for-the-badge" />
   <img src="https://img.shields.io/badge/IIT Kanpur TechFest-Participant 🔹-0A66C2?style=for-the-badge" />
