@@ -12,10 +12,10 @@
     <img src="https://img.shields.io/badge/Instagram-%40ck_ahmad_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
   </a>
   
-  <a href="https://twitter.com/ck_ahmad" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%40ck_ahmad-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
-  </a>
-  
+  <a href="https://web-production-912b9.up.railway.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-%40ck_ahmad-1DA1F2?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio Website" />
+</a>
+
   <a href="mailto:ahmadleo498@gmail.com">
     <img src="https://img.shields.io/badge/Email-ahmadleo498@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
