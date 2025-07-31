@@ -30,7 +30,7 @@
 - 📊 Current Role: **Data Analyst Intern @ Elevvo Pathways**
 - 🔧 Past Roles: Python Intern at **Oasis Infobyte**, **Codveda**, **CodeAlpha**
 - 🤖 Passionate about: **Speech Recognition**, **AI Assistants**, **NLP**
-- 🌱 Currently Learning: **Machine Learning**, **Computer Vision**, **Full Stack Flask Development**
+- 🌱 Currently Learning: **Machine Learning** & **Artifical Intelligance**
 - 💡 Interests: **Automation**, **Dashboards**, **Data Analysis**, **APIs**
 - 🏆 Hackathon Winner | 🎓 IIT Kanpur TechFest Participant
 
@@ -88,19 +88,18 @@
 
 ### 📚 Currently Learning
 
-![ML](https://img.shields.io/badge/Machine_Learning-Scikit_Learn-F8961E?style=for-the-badge)
-![CV](https://img.shields.io/badge/Computer_Vision-OpenCV-5F0F40?style=for-the-badge)
-![Flask Dev](https://img.shields.io/badge/Full_Stack-Flask-06D6A0?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Scikit_Learn-F8961E?style=for-the-badge)
+![Unsupervised Models](https://img.shields.io/badge/Unsupervised_Models-ML_Core-43AA8B?style=for-the-badge)
 ![Supervised Models](https://img.shields.io/badge/Supervised_Models-ML_Core-577590?style=for-the-badge)
 
 ---
 
 ### 🗓️ My Learning Timeline
 
-- ✅ **2023**: Started Python, C++, Web Development  
-- ⚙️ **2024**: Built AI Assistant, Flask projects, Data Apps  
-- 💼 **2025**: Internships in Data & Python | AI/ML focus  
-- 🎯 **Now**: Building ML projects & advanced EDA dashboards
+- ✅ **2023**: Started C++ and Web Development  
+- ⚙️ **2024**: Learned Python, built AI assistants and automation tools  
+- 💼 **2025**: Internships in Data & Python | Learning Flask & Data Apps 
+- 🎯 **Now**: Learning ML  &  Developing Data Analyst dashboard
 
 ---
 
