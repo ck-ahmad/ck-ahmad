@@ -72,6 +72,9 @@
 
 ### 💼 Internship Experience
 
+- **MKA AI** – Machine Learning Intern _(Aug 2025 – Sep 2025)_  
+  Trained ML models, automated data preprocessing, extracted insights from real-world datasets
+  
 - **Elevvo** – Data Analyst Intern _(Jul 2025 – Aug 2025)_  
   Automated workflows, visualized trends, generated reports
 
