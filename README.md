@@ -112,15 +112,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ck-ahmad&show_icons=true&theme=algolia" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ck-ahmad&theme=algolia" height="180px"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ck-ahmad&layout=compact&theme=algolia" />
 </p>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ck-ahmad&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
