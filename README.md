@@ -21,7 +21,7 @@
   <a href="https://www.vitaely.me/portfolio_ahmad0763 " target="_blank">
     <img src="https://img.shields.io/badge/Vitaely-Portfolio-1DA1F2?style=for-the-badge&logo=githubpages" />
   </a>
-  <a href="https://docs.google.com/document/d/1gj48KrjJO7LtDFNv1qqC7r4986HT6wFk/edit?usp=drive_link&ouid=113166389118662265698&rtpof=true&sd=true" target="_blank">
+  <a href="https://github.com/ck-ahmad/ck-ahmad/blob/main/Ahmad_Resuma.docx" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Download-success?style=for-the-badge&logo=adobeacrobatreader" />
   </a>
 </p>
