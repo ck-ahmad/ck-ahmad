@@ -1,4 +1,22 @@
-<img src="https://raw.githubusercontent.com/ck-ahmad/ck-ahmad/main/hw1.png" alt="Ahmad's Banner" style="width:100%;" />
+<!-- <img src="https://raw.githubusercontent.com/ck-ahmad/ck-ahmad/main/hw1.png" alt="Ahmad's Banner" style="width:100%;" /> -->
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
+
+
 
 <h1 align="center">Hi 👋, I'm Ahmad Abdullah</h1>
 <h3 align="center">SDE Intern @ Bluestock.in | Data & AI Enthusiast | Python & Backend Developer</h3>
@@ -16,9 +34,9 @@
   <a href="https://ahmadleo-tech.github.io/New_portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-1DA1F2?style=for-the-badge&logo=githubpages" />
   </a>
-  <a href="https://www.vitaely.me/portfolio_ahmad0763" target="_blank">
+  <!-- <a href="https://www.vitaely.me/portfolio_ahmad0763" target="_blank">
     <img src="https://img.shields.io/badge/Vitaely-Portfolio-1DA1F2?style=for-the-badge&logo=githubpages" />
-  </a>
+  </a> -->
   <a href="https://github.com/ck-ahmad/ck-ahmad/blob/main/Ahmad_Resume.docx" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Download-success?style=for-the-badge&logo=adobeacrobatreader" />
   </a>
