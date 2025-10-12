@@ -85,20 +85,64 @@
 
 ### 💼 Experience
 
-- **Bluestock.in** – SDE Intern _(Sep 2025 – Present)_  
-  Backend & API Development, Frontend Enhancements, Problem-Solving & Optimization  
+- **Bluestock.in** – Software Development Engineer Intern _(Oct 2025 – Present)_  
+  - Backend & API Development (Flask, Node.js)  
+  - Frontend Enhancements & Optimization  
+  - Problem-Solving & System Performance Improvements  
+  - Collaboration with dev team. 
 
-- **Softsincs** – ML/Data Engineer _(Aug 2025 – Sep 2025)_  
-  Designed scalable data pipelines, applied ML techniques  
+- **Softsincs** – ML/Data Engineer _(Aug – Oct 2025, 2 months)_  
+  - Designed and managed scalable **data pipelines**  
+  - Applied **ML models (KNN, SVM, Naive Bayes, etc.)**.  
+  - Web scraping (Requests, Beautiful Soup, JSON).
+  - Delivered production-ready **ML workflows**  
 
-- **MKA AI** – ML/Data Engineer _(Aug 2025)_  
-  Preprocessing, EDA, feature engineering, model training  
+- **MKA AI** – ML/Data Engineer _(Aug 2025, 1 month)_  
+  - Data cleaning, EDA, feature engineering with **NumPy, Pandas**  
+  - Trained & optimized models with **Scikit-learn**  
 
-- **Elevvo Pathways** – Data Analyst _(Jul 2025 – Aug 2025)_  
-  Automated workflows, dashboards, reports (Python, SQL, Power BI)  
+- **Elevvo Pathways** – Data Analyst _(Jul – Aug 2025, 2 months)_  
+  - Built dashboards & reports with **Python & SQL**  
+  - Automated workflows to reduce manual reporting  
+  - Analyzed customer behavior & trends for business insights  
 
-- **Oasis Infobyte / Codveda / CodeAlpha** – Python Intern _(Jun–Jul 2025)_  
-  CLI tools, automation scripts, Flask apps, APIs, AI chatbot  
+- **Oasis Infobyte / Codveda / CodeAlpha** – Python Developer Intern _(Jun – Jul 2025, ~2 months total)_  
+  - Developed **Flask apps, CLI tools, automation scripts**  
+  - Built APIs & voice-based AI chatbot  
+  - Applied OOP, DSA, debugging, and API integration in real-world projects  
+  - Key Projects: Hangman Game, Stock Portfolio Tracker, AI Chatbot  
+
+---
+
+### 🔧 Personal Projects (Independent Work)
+
+- **Backend Developer (Jun 2025 – Present, 5 months)**  
+  - Designed and developed dynamic web apps (Flask + responsive frontends)  
+  - **Key Projects:**  
+    - 🌐 Portfolio (personal website)  
+    - 🪐 AstroHub (astronomy hub)  
+    - 🌌 Galaxify (Spotify-style platform)  
+    - 🤖 AI Assistant 2.0 & Student AI Assistant 2.0  
+    - 📝 AI Note Generator & API  
+    - 🌦️ Weather API, 🔗 Offline Translator API  
+    - ⏳ Ongoing: *Going Onn* web app  
+
+- **Python Developer (Jun 2024 – Jul 2025, 1 yr 2 mos)**  
+  - Built **Tony AI 1.0** (voice assistant in Core Python, OOP)  
+  - Created **Student Assistant 1.0** (academic search + summarizer)  
+  - Developed local **Drive Manager**, games, and utilities  
+  - Libraries: `pyttsx3`, `speech_recognition`, `pyowm`, `googletrans`  
+
+- **Learning by Building – Python & C++ Projects (Jun 2024 – Jun 2025, 1 yr 1 mo)**  
+  - Applied C++ (OOP, DSA) and Python in projects & hackathons  
+  - **Projects:**
+  - Pokec Social Network (Python)
+  -  Student Assistant (Python)
+  - Nyan Cat Game (C++ OOP)
+  - Google Drive Manager (C++ DSA)
+  - Sudoku Game(C++)
+  - Translator App(Python) 
+
 
 ---
 
@@ -137,13 +181,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ck-ahmad&layout=donut&theme=algolia" />
 </p>
-
-### 🚀 Leetcode
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/ck_ahmad?ext=contest&theme=dark" />
-</p>
-
 
 ---
 
