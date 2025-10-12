@@ -35,38 +35,29 @@
 ### 👨‍💻 About Me
 
 - 🎓 CS Student @ FAST NUCES (2023–2027)  
-- 💼 Current Role: **Software Development Engineer Intern @ Bluestock.in**  
-- 🔧 Past Roles: **ML/Data Engineer (Softsincs, MKA AI), Data Analyst (Elevvo), Python Intern (Oasis Infobyte, Codveda, CodeAlpha)**  
+- 💼 Current Role: **Software Development Engineer Intern @ Bluestock.in** _(Oct 2025 – Present, 1+ month)_  
+- 🔧 Past Roles:  
+  - **ML/Data Engineer @ Softsincs** _(Aug – Oct 2025, 2 month)_  
+  - **ML/Data Engineer @ MKA AI** _(Aug 2025, 1 month)_  
+  - **Data Analyst Intern @ Elevvo Pathways** _(Jul – Aug 2025, 1 months)_  
+  - **Python Intern @ Oasis Infobyte, Codveda, CodeAlpha** _(Jun – Jul 2025, ~2 months total)_  
 - 🤖 Passionate about: **Backend Development, Data Engineering, AI Assistants, NLP**  
 - 🌱 Currently Learning: **Airflow → PySpark → AWS (Data Engineering Roadmap)**  
-- 🏆 2× National Hackathon Top 3 Winner | IIT Kanpur TechFest Top 10  
+- 🏆 **2× National Hackathon Top 3 Winner** | **IIT Kanpur TechFest Top 10**  
+
 
 ---
 
 ### 🛠️ Tech Stack
 
 **Languages & Frameworks:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask)  
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  ![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask)  ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
 
 **Libraries & Tools:**  
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)  
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)  
-![Seaborn](https://img.shields.io/badge/-Seaborn-2E3B4E?style=flat)  
-![Scikit Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn)  
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)  ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)  ![Seaborn](https://img.shields.io/badge/-Seaborn-2E3B4E?style=flat)  ![Scikit Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn)  ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)  
 
 **Platforms:**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
 
 ---
 
@@ -77,8 +68,8 @@
 | [🪐 AstroHub](https://github.com/ck-ahmad/AstroHub) | Astronomy hub with interactive content | Flask, MySQL |
 | [🧠 AI Assistant 2.0](https://github.com/ck-ahmad/AI-Assistant) | Smart personal assistant (voice + NLP) | Python, OpenAI, Flask |
 | [🎵 Galaxify](https://github.com/ck-ahmad/Galaxify) | Spotify-style music platform | Flask, JS, HTML/CSS |
-| [📊 Carbon Emission Tracker](#) | Hackathon project – Track & analyze footprints | Flask, MongoDB, OpenAI |
-| [📚 Student Assistant](#) | AI-powered academic helper | Python, Flask, APIs |
+| [📊 Carbon Emission Tracker](https://github.com/ck-ahmad/Carbon_Tracker) | Hackathon project – Track & analyze footprints | Flask, MongoDB, OpenAI |
+| [📚 Student Assistant](https://github.com/Ahmadleo-tech/Student-Assistant-Helper-) | AI-powered academic helper | Python, Flask, APIs |
 
 ---
 
@@ -87,7 +78,7 @@
 | Hackathon Project | Description | Recognition |
 |------------------|-------------|-------------|
 | 🌍 **Carbon Emission Tracker** | Flask + OpenAI tool for carbon footprint analysis | Bay2BayHacks 2025 – $100 Prize |
-| 🧮 **Derives Manager** | AI-powered step-by-step math solver | AEI Hackathon – 3rd Place |
+| 🧮 **Derives Manager** | AI-powered step-by-step Content Saver | AEI Hackathon – 3rd Place |
 | 🤖 **Tony AI** | AI Assistant with NLP + Automation | IIT Kanpur TechFest – Top 10 |
 
 ---
@@ -111,23 +102,17 @@
 
 ---
 
-### 📚 Currently Learning (Roadmap)
-
-- [x] Advanced Python (OOP, APIs, Automation)  
-- [x] Data Analysis (Pandas, SQL, Visualization)  
-- [x] Flask & REST APIs  
-- [ ] Machine Learning (Regression, Naive Bayes, SVM, KNN)  
+### 📚 Currently Learning (Roadmap) 
 - [ ] Data Engineering (Airflow → PySpark → AWS)  
-- [ ] Advanced Backend (Microservices, Docker, CI/CD)  
 
 ---
 
-### 🗓️ My Journey
+### 🛣️ My Learning Journey
 
-- ✅ **2023**: C++ & Web Dev basics  
-- ⚙️ **2024**: Python, OOP, AI assistants, games  
-- 💼 **2025**: Internships (Backend, Data, ML) | Hackathon wins  
-- 🎯 **Now**: Data Engineering + ML Projects  
+- 🚀 2023 → **C++ & Web Basics** ▓▓▓▓▓▓▓▓░░ 80%
+- 🔧 2024 → **Python, AI Assistants, Games** ▓▓▓▓▓▓▓▓▓▓░ 95%
+- 📊 2025 → **Internships, Data & ML** ▓▓▓▓▓▓▓░░░ 70%
+- ☁️ 2026 → **Data Engineering (Airflow, PySpark, AWS)** ▓▓▓░░░░░░ 30%
 
 ---
 
@@ -147,31 +132,18 @@
 
 ---
 
-### 📊 GitHub Stats & Trophies
+### 🧰 Toolbox
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ck-ahmad&theme=algolia" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ck-ahmad&layout=donut&theme=algolia" />
 </p>
+
+### 🚀 Leetcode
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ck-ahmad&theme=algolia&margin-w=10&margin-h=10" />
+  <img src="https://leetcard.jacoblin.cool/ck_ahmad?ext=contest&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ck-ahmad&layout=compact&theme=algolia" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="github-snake.svg" />
-  </picture>
-</p>
 
 ---
 
