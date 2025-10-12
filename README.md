@@ -90,6 +90,13 @@
 | [📚 Student Assistant](https://github.com/Ahmadleo-tech/Student-Assistant-Helper-) | AI-powered academic helper | Python, Flask, APIs |
 
 ---
+### 🧰 Toolbox
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ck-ahmad&layout=donut&theme=algolia" />
+</p>
+
+---
 
 ### 🏆 Hackathon Projects
 
@@ -194,13 +201,6 @@
 
 ---
 
-### 🧰 Toolbox
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ck-ahmad&layout=donut&theme=algolia" />
-</p>
-
----
 
 ### 🤝 Connect with Me
 
