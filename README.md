@@ -37,7 +37,7 @@
   <!-- <a href="https://www.vitaely.me/portfolio_ahmad0763" target="_blank">
     <img src="https://img.shields.io/badge/Vitaely-Portfolio-1DA1F2?style=for-the-badge&logo=githubpages" />
   </a> -->
-  <a href="https://drive.google.com/file/d/1QE5u2LRXEanbayu2x_wtABP3QfdWS5bM/view?usp=sharing" target="_blank">
+  <a href="https://docs.google.com/document/d/1XZ1YCHhZTxDLT_UlPb1UtY9E73Cd0ctaePXYOsJNGos/edit?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Download-success?style=for-the-badge&logo=adobeacrobatreader" />
   </a>
 </p>
