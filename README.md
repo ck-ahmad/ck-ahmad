@@ -21,15 +21,15 @@
 <h1 align="center">Hi 👋, I'm Ahmad.</h1>
 <h3 align="center">SDE Intern @ Bluestock.in | Data & AI Enthusiast | Python & Backend Developer</h3>
 
-<!-- <p align="center">
-  <a href="https://github.com/ck-ahmad" target="_blank">
+<p align="center">
+  <!-- <a href="https://github.com/ck-ahmad" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-ck--ahmad-171515?style=for-the-badge&logo=github" />
   </a>
   <a href="https://linkedin.com/in/ahmad0763" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-ahmad0763-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:ahmadleo498@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ahmadleo498@gmail.com-D14836?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-ahmadleo498@gmail.com-D14836?style=for-the-badge&logo=gmail" />  align="center"
   </a> -->
   <a href="https://ahmadleo-tech.github.io/New_portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-1DA1F2?style=for-the-badge&logo=githubpages" />
@@ -37,7 +37,7 @@
   <!-- <a href="https://www.vitaely.me/portfolio_ahmad0763" target="_blank">
     <img src="https://img.shields.io/badge/Vitaely-Portfolio-1DA1F2?style=for-the-badge&logo=githubpages" />
   </a> -->
-  <a href="https://docs.google.com/document/d/1XZ1YCHhZTxDLT_UlPb1UtY9E73Cd0ctaePXYOsJNGos/edit?usp=sharing" target="_blank">
+  <a href="https://docs.google.com/document/d/1XZ1YCHhZTxDLT_UlPb1UtY9E73Cd0ctaePXYOsJNGos/edit?usp=sharing" target="_blank"  align="center">
     <img src="https://img.shields.io/badge/Resume-Download-success?style=for-the-badge&logo=adobeacrobatreader" />
   </a>
 </p>
@@ -203,7 +203,8 @@
 
 
 ### 🤝 Connect with Me
-
-<a href="mailto:ahmadleo498@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact Me-E63946?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<p align='center'>
+  <a href="mailto:ahmadleo498@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact Me-E63946?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/ahmad0763" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-View Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/ck-ahmad" target="_blank"><img src="https://img.shields.io/badge/GitHub-Visit Repo-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
