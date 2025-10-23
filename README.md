@@ -21,7 +21,7 @@
 <h1 align="center">Hi 👋, I'm Ahmad.</h1>
 <h3 align="center">SDE Intern @ Bluestock.in | Data & AI Enthusiast | Python & Backend Developer</h3>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ck-ahmad" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-ck--ahmad-171515?style=for-the-badge&logo=github" />
   </a>
@@ -30,7 +30,7 @@
   </a>
   <a href="mailto:ahmadleo498@gmail.com">
     <img src="https://img.shields.io/badge/Email-ahmadleo498@gmail.com-D14836?style=for-the-badge&logo=gmail" />
-  </a>
+  </a> -->
   <a href="https://ahmadleo-tech.github.io/New_portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-1DA1F2?style=for-the-badge&logo=githubpages" />
   </a>
