@@ -18,7 +18,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Ahmad Abdullah</h1>
+<h1 align="center">Hi 👋, I'm Ahmad.</h1>
 <h3 align="center">SDE Intern @ Bluestock.in | Data & AI Enthusiast | Python & Backend Developer</h3>
 
 <p align="center">
