@@ -47,9 +47,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ck-ahmad&label=Profile%20Views&color=0e75b6&style=flat" alt="ck-ahmad" />
 </p>
-
----
-[![Follow on GitHub](https://img.shields.io/github/followers/ck-ahmad?label=Follow&style=social)](https://github.com/ck-ahmad)
 ---
 
 ### 👨‍💻 About Me
