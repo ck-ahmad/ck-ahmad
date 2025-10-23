@@ -49,6 +49,8 @@
 </p>
 
 ---
+[![Follow on GitHub](https://img.shields.io/github/followers/ck-ahmad?label=Follow&style=social)](https://github.com/ck-ahmad)
+---
 
 ### 👨‍💻 About Me
 
