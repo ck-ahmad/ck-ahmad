@@ -208,3 +208,59 @@
 <a href="https://linkedin.com/in/ahmad0763" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-View Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/ck-ahmad" target="_blank"><img src="https://img.shields.io/badge/GitHub-Visit Repo-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+
+---
+
+### 💼 Open to Collaboration On
+
+<table>
+<tr>
+<td align="center" width="25%">
+🔧<br><b>Backend<br>Development</b><br>
+<sub>Flask, Node.js, APIs</sub>
+</td>
+<td align="center" width="25%">
+📊<br><b>Data<br>Engineering</b><br>
+<sub>Pipelines, ETL, Analytics</sub>
+</td>
+<td align="center" width="25%">
+🤖<br><b>AI/ML<br>Projects</b><br>
+<sub>NLP, Gemeni , Automation</sub>
+</td>
+<td align="center" width="25%">
+🌐<br><b>Open<br>Source</b><br>
+<sub>Contributing & Learning</sub>
+</td>
+</tr>
+</table>
+
+### 🎯 What I'm Looking For
+
+- 🤝 **Full-time SDE or Data Engineering roles**
+- 🚀 **Exciting projects in AI/ML, Backend, or Data**
+- 📚 **Mentorship opportunities** from industry experts
+- 🏆 **Hackathon teammates** for competitive problem-solving
+- 💡 **Collaborative learning** and knowledge sharing
+
+### 📫 Response Time
+
+💌 **Email:** < 24 hours  
+💼 **LinkedIn:** Active daily  
+🐱 **GitHub:** Check my repos regularly  
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+### 💡 "Building solutions that matter, one line of code at a time"
+
+### ⭐ If you like my work, feel free to star my repositories!
+
+<sub>🚀 From [ck-ahmad](https://github.com/ck-ahmad) | Built with 💙 Python, ☕ Coffee & endless curiosity</sub><br>
+<sub>📍 Faisalabad, Punjab, Pakistan | 🎓 FAST NUCES '27 | Last updated: October 2025</sub>
+
+</div>
