@@ -173,8 +173,8 @@ Spotify-inspired music streaming platform with modern interface and smooth user 
 <div align="center">
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=ck-ahmad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats" width="48%"/> -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ck-ahmad&theme=tokyonight&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="GitHub Streak" width="48%"/>
-<br>
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ck-ahmad&theme=tokyonight&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="GitHub Streak" width="48%"/>
+<br> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ck-ahmad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" width="48%"/>
 
 </div>
