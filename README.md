@@ -19,7 +19,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ahmad.</h1>
-<h3 align="center">SDE Intern @ Bluestock.in | Data & AI Enthusiast | Python & Backend Developer</h3>
+<h3 align="center">SDE Mentee @ Dev Weekends | Data & AI Enthusiast | Python & Backend Developer</h3>
 
 <p align="center">
   <!-- <a href="https://github.com/ck-ahmad" target="_blank">
