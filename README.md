@@ -140,8 +140,8 @@ work_experience = {
     "past_roles": [
         {"role": "ML/Data Engineer", "company": "Softsincs", "duration": "2 months"},
         {"role": "ML/Data Engineer", "company": "MKA AI", "duration": "1 month"},
-        {"role": "Data Analyst", "company": "Elevvo Pathways", "duration": "2 months"},
-        {"role": "Python Developer", "companies": ["Oasis Infobyte", "Codveda", "CodeAlpha"], "duration": "2 months"}
+        {"role": "Data Analyst", "company": "Elevvo Pathways", "duration": "1 months"},
+        {"role": "Python Developer", "companies": ["Oasis Infobyte", "Codveda", "CodeAlpha"], "duration": "3 months"}
     ]
 }
 ```
