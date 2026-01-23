@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐍 Ahmad | Python Backend Engineer
+# 🐍 Ahmad | Backend Engineer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%40+GAOTek;Python+%7C+Flask+%7C+FastAPI+%7C+Django;Building+Scalable+Backend+Systems;Data+Engineering+%26+ML+Enthusiast;2%C3%97+National+Hackathon+Winner" alt="Typing SVG" />
 
