@@ -1,202 +1,228 @@
 <div align="center">
 
-# 🐍 Ahmad | Backend Engineer
+# 💀 Ahmad | Backend Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%40+GAOTek;Python+%7C+Flask+%7C+FastAPI+%7C+Django;Building+Scalable+Backend+Systems;Data+Engineering+%26+ML+Enthusiast;2%C3%97+National+Hackathon+Winner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=root%40localhost~%23+whoami;Full+Stack+Developer+%40+GAOTek;Python+%7C+Flask+%7C+FastAPI+%7C+Django;Exploiting+Bugs+%26+Building+Systems;Data+Engineering+%26+ML+Hacker;2%C3%97+National+Hackathon+Winner" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-0ea5e9?style=for-the-badge)](https://ahmadleo-tech.github.io/New_portfolio/)
-[![Resume](https://img.shields.io/badge/📄_Resume-Download-10b981?style=for-the-badge)](https://docs.google.com/document/d/1XZ1YCHhZTxDLT_UlPb1UtY9E73Cd0ctaePXYOsJNGos/edit?usp=sharing)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ahmad0763)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:ahmadleo498@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Terminal-Access_Portfolio-00FF00?style=for-the-badge&labelColor=000000)](https://ahmadleo-tech.github.io/New_portfolio/)
+[![Resume](https://img.shields.io/badge/📄_File-Download_Resume-00FF00?style=for-the-badge&labelColor=000000)](https://docs.google.com/document/d/1XZ1YCHhZTxDLT_UlPb1UtY9E73Cd0ctaePXYOsJNGos/edit?usp=sharing)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Encrypted_Channel-00FF00?style=for-the-badge&logo=linkedin&labelColor=000000)](https://linkedin.com/in/ahmad0763)
+[![Email](https://img.shields.io/badge/Email-Secure_Line-00FF00?style=for-the-badge&logo=gmail&labelColor=000000)](mailto:ahmadleo498@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=ck-ahmad&label=Profile%20Views&color=3776AB&style=flat" alt="Profile views" />
+```
+┌──(ahmad㉿localhost)-[~/profile]
+└─$ cat profile_stats.txt
+```
+
+<img src="https://komarev.com/ghpvc/?username=ck-ahmad&label=INTRUSION%20ATTEMPTS&color=00FF00&style=flat" alt="Profile views" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🕵️ System Access Granted
+
+```bash
+┌──(root💀localhost)-[~/Ahmad]
+└─$ cat system_info.sh
+```
 
 ```python
-class SoftwareEngineer:
+class CyberOperative:
     def __init__(self):
-        self.name = "Ahmad"
-        self.role = "Full Stack Developer @ GAOTek"
-        self.location = "Faisalabad, Pakistan"
-        self.education = "FAST NUCES '27 | Computer Science"
-        self.languages = ["Python", "C++", "JavaScript", "SQL"]
-        self.currently_learning = ["PySpark", "System Design", "AWS"]
+        self.alias = "Ahmad"
+        self.clearance_level = "Full Stack Developer @ GAOTek"
+        self.base_location = "Faisalabad, Pakistan [REDACTED]"
+        self.training_facility = "FAST NUCES '27 | Computer Science"
+        self.arsenal = ["Python", "C++", "JavaScript", "SQL"]
+        self.current_exploits = ["PySpark", "System Design", "AWS"]
+        self.status = "ONLINE ████████████ 100%"
         
-    def get_current_focus(self):
+    def enumerate_skills(self):
         return {
-            "backend": ["Flask", "FastAPI", "REST APIs", "Microservices"],
-            "data": ["Pandas", "NumPy", "Data Pipelines", "ETL/ELT"],
-            "ai_ml": ["Scikit-learn", "NLP", "Gemini AI", "OpenAI"],
-            "databases": ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
-            "tools": ["Docker", "Git", "Linux", "Postman"]
+            "backend_ops": ["Flask", "FastAPI", "REST APIs", "Microservices"],
+            "data_mining": ["Pandas", "NumPy", "Data Pipelines", "ETL/ELT"],
+            "ai_warfare": ["Scikit-learn", "NLP", "Gemini AI", "OpenAI"],
+            "database_breach": ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
+            "hacker_tools": ["Docker", "Git", "Linux", "Postman", "Bash"]
         }
     
-    def achievements(self):
+    def achievement_log(self):
         return [
-            "🏆 2× National Hackathon Winner",
-            "💰 $100 Prize @ Bay2BayHacks 2025",
-            "🎯 IIT Kanpur TechFest Top 10",
-            "🚀 25+ Production-Ready Projects",
-            "📚 SDE Mentee @ Dev Weekends"
+            "[+] 🏆 2× National Hackathon Winner",
+            "[+] 💰 $100 Prize @ Bay2BayHacks 2025",
+            "[+] 🎯 IIT Kanpur TechFest Top 10",
+            "[+] 🚀 25+ Production-Ready Exploits",
+            "[+] 📚 SDE Mentee @ Dev Weekends",
+            "[!] STATUS: ACTIVELY HUNTING BUGS"
         ]
 
-me = SoftwareEngineer()
+operative = CyberOperative()
+print("[✓] Access Granted. Welcome, Ahmad.")
 ```
 
 ---
 
-## 🛠️ Tech Arsenal
+## ⚡ Hacking Arsenal
 
 <div align="center">
 
-### 💎 Core Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+```bash
+┌──(ahmad㉿kali)-[~/tools]
+└─$ ls -la weapons/
+```
 
-### 🔥 Backend & APIs
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-009688?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### 🔥 Primary Weapons
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF00)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00FF00)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF00)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF00)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=00FF00)
 
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLlite](https://img.shields.io/badge/Sqllite-DC382D?style=for-the-badge&logo=sqllite&logoColor=white)
+### 💣 Backend Exploits
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=00FF00)
+![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=00FF00)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00FF00)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=00FF00)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=postman&logoColor=00FF00)
 
-### 📊 Data Science & ML
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+### 🗄️ Database Penetration
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF00)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00FF00)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF00)
+![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=00FF00)
 
-### 🤖 AI & NLP
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-FF6F00?style=for-the-badge&logo=nltk&logoColor=white)
+### 🤖 AI Neural Networks
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=00FF00)
+![Gemini](https://img.shields.io/badge/Gemini_AI-000000?style=for-the-badge&logo=google&logoColor=00FF00)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=00FF00)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=00FF00)
 
-### ⚡ Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### 🛠️ Hacker Utilities
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF00)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF00)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF00)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=00FF00)
+![Vim](https://img.shields.io/badge/Vim-000000?style=for-the-badge&logo=vim&logoColor=00FF00)
 
 </div>
 
 ---
 
-## 💼 Professional Journey
+## 🎯 Mission Logs
+
+```bash
+┌──(ahmad㉿localhost)-[~/missions]
+└─$ cat active_operations.log
+```
 
 ```python
-work_experience = {
-    "current": {
-        "company": "GAOTek Inc.",
+mission_log = {
+    "[ACTIVE]": {
+        "operation": "GAOTek Inc. - Backend Division",
         "role": "Full Stack Developer",
-        "period": "Jan 2026 - Present",
-        "tech_stack": ["Python Flask", "Node.js", "MySQL", "MongoDB", "PLSQL"],
-        "highlights": [
-            "🔧 Developing RESTful APIs with Flask for scalable backend services",
-            "🎨 Building responsive frontends with JavaScript, HTML5, CSS3",
-            "🔐 Implementing JWT authentication & role-based access control",
-            "💾 Designing and optimizing database schemas (MySQL, MongoDB)",
-            "🚀 Delivered complete admin panels and dashboards from scratch"
+        "timeline": "Jan 2026 - Present",
+        "tech_deployed": ["Python Flask", "Node.js", "MySQL", "MongoDB", "PLSQL"],
+        "objectives_completed": [
+            "[✓] Developed RESTful APIs with Flask - SUCCESSFUL",
+            "[✓] Built responsive frontends - HTML5/CSS3/JS - DEPLOYED",
+            "[✓] Implemented JWT authentication & RBAC - SECURED",
+            "[✓] Optimized database schemas - PERFORMANCE +40%",
+            "[✓] Delivered complete admin panels - MISSION COMPLETE"
         ]
     },
     
-    "freelance": {
-        "platform": "Fiverr",
-        "role": "Software Developer",
-        "period": "Nov 2025 - Present",
-        "focus": ["Backend APIs", "ETL Pipelines", "ML Integration", "Data Analysis"],
-        "deliverables": [
-            "✅ Multiple client projects with AI-powered applications",
-            "📊 Data-driven dashboards and analytics platforms",
-            "🤖 Machine learning model integration and deployment"
+    "[FREELANCE_OPS]": {
+        "platform": "Fiverr Underground",
+        "role": "Cyber Mercenary",
+        "timeline": "Nov 2025 - Present",
+        "specialization": ["Backend APIs", "ETL Pipelines", "ML Integration", "Data Hacking"],
+        "contracts_completed": [
+            "[✓] AI-powered applications - MULTIPLE CLIENTS",
+            "[✓] Data analytics platforms - CLASSIFIED",
+            "[✓] ML model deployment - NEURAL NETWORKS ACTIVE"
         ]
     },
     
-    "mentorship": {
-        "program": "Dev Weekends",
+    "[TRAINING]": {
+        "program": "Dev Weekends - Elite Training",
         "role": "SDE Mentee",
-        "period": "Nov 2025 - Present (4 months)",
-        "learnings": [
-            "📚 30 DSA grind sessions - Interview-level problem solving",
-            "🏗️ 12 engineering weekends - System design & architecture",
-            "💻 Portfolio-ready projects with industry mentors",
-            "🎯 Mock interviews & career guidance"
+        "duration": "Nov 2025 - Present (4 months)",
+        "skills_acquired": [
+            "[✓] 30 DSA combat sessions - HACKER READY",
+            "[✓] 12 system design operations - ARCHITECTURE MASTERED",
+            "[✓] Portfolio weaponization - COMPLETE",
+            "[✓] Mock interviews - PREPARATION LEVEL: EXPERT"
         ]
     },
     
-    "past_roles": [
-        {"role": "ML/Data Engineer", "company": "Softsincs", "duration": "2 months"},
-        {"role": "ML/Data Engineer", "company": "MKA AI", "duration": "1 month"},
-        {"role": "Data Analyst", "company": "Elevvo Pathways", "duration": "1 months"},
-        {"role": "Python Developer", "companies": ["Oasis Infobyte", "Codveda", "CodeAlpha"], "duration": "3 months"}
+    "[PAST_OPS]": [
+        {"code": "ML_ENG_001", "target": "Softsincs", "duration": "2 months", "status": "COMPLETED"},
+        {"code": "ML_ENG_002", "target": "MKA AI", "duration": "1 month", "status": "COMPLETED"},
+        {"code": "DATA_ANA_001", "target": "Elevvo Pathways", "duration": "1 month", "status": "COMPLETED"},
+        {"code": "PY_DEV_001", "targets": ["Oasis Infobyte", "Codveda", "CodeAlpha"], "duration": "3 months", "status": "COMPLETED"}
     ]
 }
+
+print("[!] All systems operational. Awaiting next mission...")
 ```
 
 ---
 
-## 🚀 Featured Projects
+## 🔓 Successful Breaches (Projects)
+
+```bash
+┌──(root💀kali)-[~/projects]
+└─$ ls -la completed_exploits/
+```
 
 <table>
 <tr>
 <td width="50%">
 
-### 🧠 AI Assistant 2.0
-**Smart productivity companion with voice control**
+### 🤖 AI Assistant 2.0
+**CLASSIFICATION: VOICE-CONTROLLED WEAPON**
 
-```python
-# Tech Stack
-stack = {
+```bash
+# Exploit Payload
+payload = {
     "backend": "Flask",
-    "ai": "OpenAI API",
-    "nlp": "SpeechRecognition",
-    "tts": "pyttsx3"
+    "ai_engine": "OpenAI API",
+    "voice_module": "SpeechRecognition",
+    "output": "pyttsx3"
 }
 ```
 
-**Features:**
-- 🎤 Voice command processing
-- ⏰ Task automation & reminders
-- 🌦️ Real-time weather updates
-- 🔊 Text-to-speech responses
+**Capabilities:**
+- 🎤 Voice command hijacking
+- ⏰ Automated task execution
+- 🌦️ Real-time data extraction
+- 🔊 Neural TTS synthesis
 
-[![Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/ck-ahmad/AI-Assistant)
+[![Access](https://img.shields.io/badge/Access_Code-000000?style=for-the-badge&logo=github&logoColor=00FF00)](https://github.com/ck-ahmad/AI-Assistant)
 
 </td>
 <td width="50%">
 
 ### 📝 AI Note Generator
-**ETL pipeline for intelligent note-taking**
+**CLASSIFICATION: ETL DATA PIPELINE**
 
-```python
-# Pipeline
-pipeline = [
-    "Extract → Audio to Text",
-    "Transform → Summarize + Translate",
-    "Load → Generate Audio Notes"
+```bash
+# Pipeline Architecture
+exploit_chain = [
+    "Stage 1 → Audio Intercept",
+    "Stage 2 → Data Transform & Translate",
+    "Stage 3 → Audio Generation"
 ]
 ```
 
 **Features:**
-- 📄 Auto transcription & summarization
-- 🌍 Multi-language translation (Gemini AI)
-- 🎴 Flashcard generation
-- 🔊 Audio summary output
+- 📄 Auto transcription engine
+- 🌍 Multi-language neural translation
+- 🎴 Knowledge extraction module
+- 🔊 Audio synthesis output
 
-[![Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/ck-ahmad/EduHacks_AI_Note_Creator)
+[![Access](https://img.shields.io/badge/Access_Code-000000?style=for-the-badge&logo=github&logoColor=00FF00)](https://github.com/ck-ahmad/EduHacks_AI_Note_Creator)
 
 </td>
 </tr>
@@ -205,39 +231,39 @@ pipeline = [
 <td width="50%">
 
 ### 📚 Student AI Assistant 2.0
-**Academic learning companion**
+**CLASSIFICATION: ACADEMIC NEURAL NETWORK**
 
-```python
-features = {
-    "qa_system": "Context-aware answers",
-    "study_planner": "AI-powered roadmaps",
-    "research": "Document summarization",
-    "interaction": "Voice-first interface"
+```bash
+modules = {
+    "qa_system": "Context-aware intelligence",
+    "planner": "AI-powered roadmaps",
+    "research": "Document infiltration",
+    "interface": "Voice-first protocol"
 }
 ```
 
-**Hackathon:** GDG DevFest AmplifAI 2025
+**Operation:** GDG DevFest AmplifAI 2025
 
-[![Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Ahmadleo-tech/Student-Assistant-Helper-)
+[![Access](https://img.shields.io/badge/Access_Code-000000?style=for-the-badge&logo=github&logoColor=00FF00)](https://github.com/Ahmadleo-tech/Student-Assistant-Helper-)
 
 </td>
 <td width="50%">
 
 ### 🌍 Carbon Emission Tracker
-**Environmental impact monitoring**
+**CLASSIFICATION: ENVIRONMENTAL MONITORING**
 
-```python
-# Winner Project
+```bash
+# Mission Success
 achievement = {
-    "hackathon": "Bay2BayHacks 2025",
-    "prize": "$100",
+    "operation": "Bay2BayHacks 2025",
+    "bounty": "$100 COLLECTED",
     "impact": "Sustainability tracking"
 }
 ```
 
-**Tech:** Flask, MongoDB, OpenAI
+**Stack:** Flask, MongoDB, OpenAI
 
-[![Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/ck-ahmad/Carbon_Tracker)
+[![Access](https://img.shields.io/badge/Access_Code-000000?style=for-the-badge&logo=github&logoColor=00FF00)](https://github.com/ck-ahmad/Carbon_Tracker)
 
 </td>
 </tr>
@@ -246,63 +272,68 @@ achievement = {
 <td width="50%">
 
 ### 🪐 AstroHub
-**Interactive astronomy knowledge platform**
+**CLASSIFICATION: ASTRONOMY DATA VAULT**
 
-```python
-stack = {
+```bash
+infrastructure = {
     "backend": "Flask",
     "database": "MySQL",
     "frontend": "HTML/CSS/JS"
 }
 ```
 
-**Features:** Educational content, interactive UI, responsive design
+**Access Level:** Educational platform, responsive UI
 
-[![Demo](https://img.shields.io/badge/View_Demo-181717?style=for-the-badge&logo=github)](https://github.com/ck-ahmad/AstroHub)
+[![Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=github&logoColor=00FF00)](https://github.com/ck-ahmad/AstroHub)
 
 </td>
 <td width="50%">
 
 ### 🎵 Galaxify
-**Universe-themed music exploration**
+**CLASSIFICATION: MUSIC EXPLORATION SYSTEM**
 
-```python
-tech = {
+```bash
+tech_stack = {
     "framework": "Flask",
     "design": "Modern UI/UX",
-    "features": "Music discovery"
+    "features": "Discovery algorithm"
 }
 ```
 
-**Focus:** Interactive experience, creative design
+**Status:** OPERATIONAL
 
-[![Demo](https://img.shields.io/badge/View_Demo-181717?style=for-the-badge&logo=github)](https://github.com/ck-ahmad/Galaxify)
+[![Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=github&logoColor=00FF00)](https://github.com/ck-ahmad/Galaxify)
 
 </td>
 </tr>
 </table>
 
-### 🔧 More Projects
+### 🔐 Additional Exploits
 
 <details>
-<summary><b>🐍 Core Python Projects</b></summary>
+<summary><b>🐍 Core Python Arsenal</b></summary>
+
+```bash
+┌──(ahmad㉿kali)-[~/python_exploits]
+└─$ cat inventory.txt
+```
 
 ```python
-core_projects = {
+core_arsenal = {
     "Tony AI 1.0": {
-        "description": "Voice-controlled assistant (Pure Python + OOP)",
-        "features": ["Alarms", "Reminders", "Weather", "Translation"],
-        "libs": ["pyttsx3", "speech_recognition", "pyowm", "googletrans"]
+        "type": "Voice-controlled assistant (Pure Python + OOP)",
+        "modules": ["Alarms", "Reminders", "Weather", "Translation"],
+        "dependencies": ["pyttsx3", "speech_recognition", "pyowm", "googletrans"]
     },
     
     "Drive Manager": {
-        "description": "Local file/folder organizer",
-        "tech": "Python core + file handling"
+        "type": "Local file/folder infiltration tool",
+        "tech": "Python core + file system manipulation"
     },
     
     "Student Assistant 1.0": {
-        "description": "Academic search & summarization tool",
-        "type": "CLI-based Python application"
+        "type": "Academic search & data extraction",
+        "interface": "CLI-based Python application"
     }
 }
 ```
@@ -310,24 +341,27 @@ core_projects = {
 </details>
 
 <details>
-<summary><b>🔗 Backend APIs & Services</b></summary>
+<summary><b>🔗 Backend Weapon Systems</b></summary>
 
-- 🌦️ **Weather API** - Real-time weather data with location forecasts
-- 🔗 **Offline Translator API** - Local translation without internet
-- 📝 **AI Note Generator API** - Note generation & summarization service
-- 💻 **AI Claude IDE 1.0** - Cloud-based IDE with AI assistance
+```bash
+[+] Weather API - Real-time meteorological data extraction
+[+] Offline Translator API - Local translation without network trace
+[+] AI Note Generator API - Automated note generation service
+[+] AI Claude IDE 1.0 - Cloud-based development environment
+```
 
 </details>
 
 <details>
-<summary><b>🎮 C++ & Games</b></summary>
+<summary><b>⚔️ C++ Combat Tools</b></summary>
 
 ```cpp
-vector<Project> cpp_projects = {
-    {"Nyan Cat Game", "OOP-based interactive game"},
-    {"Google Drive Manager", "DSA implementation with versioning"},
-    {"Sudoku Game", "Logic-based puzzle solver"},
-    {"Pokec Social Network", "Large-scale data analysis"}
+// Low-level weapons cache
+vector<Exploit> cpp_arsenal = {
+    {"Nyan Cat Game", "OOP-based interactive system"},
+    {"Google Drive Manager", "DSA implementation with version control"},
+    {"Sudoku Solver", "Logic-based puzzle cracker"},
+    {"Pokec Social Network", "Large-scale data analysis tool"}
 };
 ```
 
@@ -335,220 +369,302 @@ vector<Project> cpp_projects = {
 
 ---
 
-## 🏆 Hackathon Achievements
+## 🏴‍☠️ Bounty Hunter Achievements
+
+```bash
+┌──(ahmad㉿localhost)-[~/trophies]
+└─$ cat hackathon_wins.log
+```
 
 <div align="center">
 
-| 🎯 Event | 💡 Project | 🏅 Achievement | 💻 Tech Stack |
-|:---------|:-----------|:---------------|:--------------|
-| **Bay2BayHacks 2025** | Carbon Emission Tracker | 💰 **$100 Winner** | Flask, MongoDB, OpenAI |
-| **WebMind Innovation 2025** | AI Note-Taker | 🎖️ **Top Performer** | Flask, Gemini AI, NLTK |
-| **AEI Hackathon** | Derives Manager | 🥉 **3rd Place** | Python, SpeechRecognition |
-| **GDG DevFest AmplifAI** | Student AI Assistant 2.0 | ⭐ **Showcased** | Flask, Gemini, NLP |
-| **IIT Kanpur TechFest** | Tony AI | 🏅 **Top 10** | Python, OpenAI, Voice AI |
+| 🎯 Operation | 💡 Exploit | 🏅 Bounty | 💻 Arsenal Used |
+|:-------------|:-----------|:----------|:----------------|
+| **Bay2BayHacks 2025** | Carbon Emission Tracker | 💰 **$100 CLAIMED** | Flask, MongoDB, OpenAI |
+| **WebMind Innovation 2025** | AI Note-Taker | 🎖️ **TOP OPERATIVE** | Flask, Gemini AI, NLTK |
+| **AEI Hackathon** | Derives Manager | 🥉 **3RD PLACE** | Python, SpeechRecognition |
+| **GDG DevFest AmplifAI** | Student AI Assistant 2.0 | ⭐ **DEMONSTRATED** | Flask, Gemini, NLP |
+| **IIT Kanpur TechFest** | Tony AI | 🏅 **TOP 10** | Python, OpenAI, Voice AI |
 
 </div>
 
 ```python
-hackathon_stats = {
-    "participated": 5,
-    "won": 3,
-    "top_10": 1,
-    "total_prize_money": "$100+",
-    "skills_gained": ["Rapid prototyping", "Team collaboration", "Problem solving"]
+bounty_stats = {
+    "operations_completed": 5,
+    "successful_bounties": 3,
+    "top_tier_placements": 1,
+    "total_earnings": "$100+",
+    "elite_skills": ["Rapid deployment", "Team infiltration", "Problem neutralization"]
 }
+
+print("[!] Bounty hunter status: ELITE")
 ```
 
 ---
 
-## 📈 Coding Activity
+## 📊 Terminal Activity Monitor
+
+```bash
+┌──(ahmad㉿localhost)-[~/stats]
+└─$ ./monitor_activity.sh
+```
 
 <!--START_SECTION:waka-->
 ```python
-languages_used = {
-    "Python": "████████████████████░░░░░   75.2%",
-    "JavaScript": "████░░░░░░░░░░░░░░░░░░░░   12.8%",
-    "C++": "███░░░░░░░░░░░░░░░░░░░░░    8.5%",
-    "SQL": "█░░░░░░░░░░░░░░░░░░░░░░░    2.1%",
-    "HTML/CSS": "█░░░░░░░░░░░░░░░░░░░░░░░    1.4%"
+# Language Distribution Analysis
+exploitation_stats = {
+    "Python": "███████████████████░░   75.2% [PRIMARY WEAPON]",
+    "JavaScript": "████░░░░░░░░░░░░░░░░   12.8% [SECONDARY]",
+    "C++": "███░░░░░░░░░░░░░░░░░░   8.5% [LOW-LEVEL OPS]",
+    "SQL": "█░░░░░░░░░░░░░░░░░░░░   2.1% [DATA BREACH]",
+    "HTML/CSS": "█░░░░░░░░░░░░░░░░░░░░   1.4% [FRONTEND COVER]"
 }
+
+print("[✓] Activity logs encrypted and stored.")
 ```
 <!--END_SECTION:waka-->
 
 ---
 
-## 🎯 What I'm Building With
+## 🎯 Current Tech Stack
+
+```bash
+┌──(root💀localhost)-[~/arsenal]
+└─$ cat current_loadout.py
+```
 
 ```python
-current_stack = {
-    "primary_language": "Python 🐍",
+operative_loadout = {
+    "primary_weapon": "Python 🐍 [MASTERED]",
     
     "backend_frameworks": [
-        "Flask - Lightweight & flexible",
-        "FastAPI - Modern async API development",
-        "Django - Full-featured web framework"
+        "Flask - Lightweight stealth framework",
+        "FastAPI - Modern async operations",
+        "Django - Full-stack warfare platform"
     ],
     
-    "api_development": [
-        "RESTful API design",
-        "JWT authentication",
-        "Rate limiting & caching",
+    "api_warfare": [
+        "RESTful API architecture",
+        "JWT token manipulation",
+        "Rate limiting bypass techniques",
         "API documentation (Swagger/OpenAPI)"
     ],
     
-    "data_engineering": [
-        "ETL/ELT pipelines",
+    "data_operations": [
+        "ETL/ELT pipeline construction",
         "Data cleaning with Pandas",
-        "PySpark for big data",
-        "Database optimization"
+        "PySpark for massive datasets",
+        "Database optimization protocols"
     ],
     
-    "ai_ml_integration": [
-        "OpenAI API",
-        "Gemini AI",
-        "Scikit-learn models",
+    "ai_neural_ops": [
+        "OpenAI API integration",
+        "Gemini AI deployment",
+        "Scikit-learn model training",
         "NLP with NLTK & spaCy"
     ],
     
-    "databases": {
+    "database_systems": {
         "relational": ["PostgreSQL", "MySQL"],
         "nosql": ["MongoDB", "Redis"],
         "orm": ["SQLAlchemy", "Pymongo"]
     },
     
-    "currently_mastering": [
+    "active_training": [
         "System Design & Architecture",
-        "Microservices patterns",
+        "Microservices infiltration patterns",
         "Cloud deployment (AWS/GCP)",
         "Container orchestration (Docker/K8s)"
     ]
 }
+
+print("[!] Loadout optimized. Ready for deployment.")
 ```
 
 ---
 
-## 📚 Learning Roadmap
+## 🗺️ Skill Tree Progression
+
+```bash
+┌──(ahmad㉿localhost)-[~/progression]
+└─$ cat skill_tree.log
+```
 
 ```python
-learning_path = {
-    2023: {
-        "focus": "Foundations",
-        "completed": ["C++ Basics", "OOP", "DSA Fundamentals"],
-        "progress": "█████████████████░░░ 85%"
+skill_progression = {
+    "2023 - INITIALIZATION": {
+        "focus": "System Fundamentals",
+        "completed": ["C++ Basics", "OOP Mastery", "DSA Core"],
+        "progress": "█████████████████░░░ 85% [NOVICE → INTERMEDIATE]"
     },
     
-    2024: {
-        "focus": "Python Mastery",
-        "completed": ["Core Python", "Flask", "APIs", "AI Projects"],
-        "projects": 15,
-        "progress": "████████████████████ 95%"
+    "2024 - PYTHON MASTERY": {
+        "focus": "Backend Exploitation",
+        "completed": ["Core Python", "Flask", "API Development", "AI Integration"],
+        "exploits_created": 15,
+        "progress": "████████████████████ 95% [INTERMEDIATE → ADVANCED]"
     },
     
-    2025: {
-        "focus": "Full Stack & Data Engineering",
+    "2025 - FULL STACK WARFARE": {
+        "focus": "System Architecture & Data Engineering",
         "learning": ["System Design", "PySpark", "Advanced Backend"],
-        "current_projects": 10,
-        "progress": "██████████████░░░░░░ 70%"
+        "active_projects": 10,
+        "progress": "██████████████░░░░░░ 70% [ADVANCED → EXPERT]"
     },
     
-    2026: {
-        "focus": "Production Systems & Scale",
+    "2026 - CLOUD & SCALE": {
+        "focus": "Production Systems Mastery",
         "planned": ["AWS/GCP", "Microservices", "DevOps", "Advanced ML"],
-        "progress": "███░░░░░░░░░░░░░░░░░ 15%"
+        "progress": "███░░░░░░░░░░░░░░░░░ 15% [EXPERT → ELITE]"
     }
 }
+
+print("[!] Skill tree update complete. Next level: ELITE OPERATIVE")
 ```
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Training Facility & Certifications
 
 <div align="center">
 
-### 🎓 Education
-**FAST NUCES** | Bachelor of Science - Computer Science  
+```bash
+┌──(ahmad㉿localhost)-[~/credentials]
+└─$ cat certifications.txt
+```
+
+### 🏛️ Primary Training Facility
+**FAST NUCES** | Computer Science Division  
 📅 Aug 2023 - Jul 2027 | Faisalabad, Pakistan
 
-### 📜 Certifications
-[![SQL](https://img.shields.io/badge/SQL_Full_Course-Certified-4479A1?style=for-the-badge&logo=mysql)](link)
-[![NumPy](https://img.shields.io/badge/NumPy-Certified-013243?style=for-the-badge&logo=numpy)](link)
-[![Data Analysis](https://img.shields.io/badge/Data_Analysis_with_Python-Certified-3776AB?style=for-the-badge&logo=python)](link)
-[![Build with AI](https://img.shields.io/badge/Build_With_AI-Hackathon-4285F4?style=for-the-badge&logo=google)](link)
+### 🏆 Combat Certifications
+[![SQL](https://img.shields.io/badge/SQL_Mastery-CERTIFIED-00FF00?style=for-the-badge&logo=mysql&labelColor=000000)](link)
+[![NumPy](https://img.shields.io/badge/NumPy-CERTIFIED-00FF00?style=for-the-badge&logo=numpy&labelColor=000000)](link)
+[![Data Analysis](https://img.shields.io/badge/Data_Analysis-CERTIFIED-00FF00?style=for-the-badge&logo=python&labelColor=000000)](link)
+[![Build with AI](https://img.shields.io/badge/Build_With_AI-HACKATHON-00FF00?style=for-the-badge&logo=google&labelColor=000000)](link)
 
 </div>
 
 ---
 
-## 💭 Developer Philosophy
+## 💭 Hacker Manifesto
+
+```bash
+┌──(root💀localhost)-[~/manifesto]
+└─$ cat hacker_code.txt
+```
 
 ```python
-class DeveloperMindset:
+class HackerMindset:
     def __init__(self):
-        self.principles = [
-            "🔍 Write code that humans can understand",
-            "🧪 Test early, test often",
-            "📚 Documentation is love for future self",
-            "♻️ Refactor like you'll read it in 6 months",
-            "🚀 Ship fast, iterate faster",
-            "🤝 Open source is giving back"
+        self.core_principles = [
+            "[+] Code should be elegant, not just functional",
+            "[+] Test relentlessly, break intentionally",
+            "[+] Document for the next hacker in line",
+            "[+] Refactor like you're covering your tracks",
+            "[+] Deploy fast, iterate faster, never stop",
+            "[+] Open source: sharing knowledge is power"
         ]
     
     def daily_routine(self):
         return {
-            "morning": "☕ Coffee + LeetCode DSA",
-            "day": "💻 Build, debug, deploy",
-            "evening": "📖 Learn new tech/Read docs",
-            "night": "🚀 Side projects & experimentation"
+            "06:00": "☕ Boot up + LeetCode grind",
+            "09:00": "💻 Hack, exploit, deploy",
+            "18:00": "📖 Study new attack vectors",
+            "23:00": "🚀 Side projects & experimentation",
+            "03:00": "🌙 Late-night debugging sessions"
         }
     
-    def favorite_quote(self):
-        return "Code is like humor. When you have to explain it, it's bad."
+    def hacker_wisdom(self):
+        return {
+            "quote_1": "\"The best code is no code at all.\"",
+            "quote_2": "\"Security through obscurity is no security.\"",
+            "quote_3": "\"Break things, learn things, build better things.\""
+        }
+
+manifesto = HackerMindset()
+print("[✓] Hacker code loaded. Ready to exploit.")
 ```
 
 ---
 
-## 🎮 Hobbies & Interests
+## 🎮 Off-Duty Activities
+
+```bash
+┌──(ahmad㉿localhost)-[~/interests]
+└─$ ls -la hobbies/
+```
 
 ```python
-interests = {
-    "coding": ["🐍 Python automation", "🤖 AI experiments", "🎮 Game development"],
-    "tech": ["☁️ Cloud architecture", "📊 Data visualization", "🔐 Cybersecurity"],
-    "community": ["🏆 Hackathons", "👥 Tech meetups", "📝 Technical writing"],
-    "learning": ["📚 System design", "🎓 Online courses", "🔬 Research papers"]
+offline_mode = {
+    "coding_obsessions": [
+        "🐍 Python automation scripts",
+        "🤖 AI experimentation labs",
+        "🎮 Game dev side quests",
+        "🔐 CTF challenges"
+    ],
+    
+    "tech_interests": [
+        "☁️ Cloud architecture deep dives",
+        "📊 Data visualization artistry",
+        "🔐 Cybersecurity research",
+        "🧠 Neural network training"
+    ],
+    
+    "community_ops": [
+        "🏆 Hackathon hunting",
+        "👥 Tech meetup infiltration",
+        "📝 Technical writing",
+        "🎤 Conference talks"
+    ],
+    
+    "continuous_learning": [
+        "📚 System design patterns",
+        "🎓 Advanced algorithms",
+        "🔬 Research paper analysis",
+        "🛠️ New framework exploration"
+    ]
 }
 
 fun_facts = [
-    "🤖 Built 25+ projects and counting",
-    "☕ Coffee-driven development is real",
-    "🏆 Hackathon adrenaline > Everything",
-    "🌍 Passionate about tech for social good",
-    "📖 Always learning, never stopping"
+    "[!] 25+ projects deployed and counting",
+    "[!] Coffee-fueled coding marathons: LEGENDARY",
+    "[!] Hackathon addiction level: MAXIMUM",
+    "[!] Building tech for social good: MISSION CRITICAL",
+    "[!] Learning mode: ALWAYS ON"
 ]
+
+print("[✓] Off-duty status: STILL CODING")
 ```
 
 ---
 
-## 📫 Let's Connect!
+## 📡 Secure Communication Channels
 
 <div align="center">
 
-```python
-def get_in_touch():
-    contact = {
-        "email": "ahmadleo498@gmail.com",
-        "linkedin": "linkedin.com/in/ahmad0763",
-        "portfolio": "ahmadleo-tech.github.io/New_portfolio/",
-        "github": "github.com/ck-ahmad",
-        "availability": "Open for collaborations & opportunities"
-    }
-    
-    return "Let's build something amazing together! 🚀"
+```bash
+┌──(ahmad㉿localhost)-[~/contact]
+└─$ cat secure_channels.txt
 ```
 
-[![Email](https://img.shields.io/badge/Email-ahmadleo498%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadleo498@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmad0763-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmad0763)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ahmadleo-tech.github.io/New_portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-ck--ahmad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ck-ahmad)
+```python
+def establish_connection():
+    secure_channels = {
+        "email": "ahmadleo498@gmail.com [ENCRYPTED]",
+        "linkedin": "linkedin.com/in/ahmad0763 [VERIFIED]",
+        "portfolio": "ahmadleo-tech.github.io/New_portfolio/ [LIVE]",
+        "github": "github.com/ck-ahmad [PUBLIC KEY]",
+        "status": "ONLINE - Ready for collaboration"
+    }
+    
+    return "[✓] All channels secured. Awaiting transmission... 📡"
+```
+
+[![Email](https://img.shields.io/badge/Email-ahmadleo498%40gmail.com-00FF00?style=for-the-badge&logo=gmail&logoColor=00FF00&labelColor=000000)](mailto:ahmadleo498@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmad0763-00FF00?style=for-the-badge&logo=linkedin&logoColor=00FF00&labelColor=000000)](https://linkedin.com/in/ahmad0763)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Access_Terminal-00FF00?style=for-the-badge&logo=google-chrome&logoColor=00FF00&labelColor=000000)](https://ahmadleo-tech.github.io/New_portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-ck--ahmad-00FF00?style=for-the-badge&logo=github&logoColor=00FF00&labelColor=000000)](https://github.com/ck-ahmad)
 
 </div>
 
@@ -556,25 +672,47 @@ def get_in_touch():
 
 <div align="center">
 
-### 🐍 Contribution Snake
+### 🐍 Activity Grid
 
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
-### ⭐ Support My Work
+### ⭐ Support the Mission
 
-If you find my projects helpful, consider giving them a star! ⭐
+```bash
+┌──(ahmad㉿localhost)-[~/support]
+└─$ ./star_repos.sh
+```
 
-**"Building the future, one commit at a time"** 🚀
+If you find these exploits useful, deploy a star! ⭐
+
+```
+╔═══════════════════════════════════════════════════════╗
+║                                                       ║
+║  "Hack the planet, one commit at a time"             ║
+║                                                       ║
+║  [✓] System compromised successfully                 ║
+║  [✓] Knowledge extracted                             ║
+║  [✓] Mission accomplished                            ║
+║                                                       ║
+╚═══════════════════════════════════════════════════════╝
+```
 
 ---
 
 ```python
-if you_like_my_work:
-    star_repos()
-    follow_me()
-    collaborate()
+if you_enjoyed_this:
+    star_the_repos()
+    follow_the_hacker()
+    join_the_mission()
     
-print("Happy Coding! 💻✨")
+print("[✓] Connection terminated. Happy hacking! 💀✨")
+print("[!] Remember: With great power comes great responsibility.")
+```
+
+```bash
+┌──(ahmad㉿localhost)-[~]
+└─$ logout
+[✓] Session ended. See you in the matrix...
 ```
 
 </div>
