@@ -468,17 +468,11 @@ Stylish galaxy discovery engine with modern immersive UI/UX for exploring the wo
 ## <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="35"> &nbsp; Batcomputer Analytics Dashboard
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ck-ahmad&show_icons=true&theme=tokyonight&bg_color=0d0d1a&title_color=a855f7&icon_color=6d28d9&text_color=94a3b8&border_color=6d28d9&border_radius=12&count_private=true" />
-
-<br/><br/>
+<br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ck-ahmad&layout=compact&theme=tokyonight&bg_color=0d0d1a&title_color=a855f7&text_color=94a3b8&border_color=6d28d9&border_radius=12&langs_count=8" />
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=ck-ahmad&theme=tokyonight&background=0d0d1a&ring=6d28d9&fire=a855f7&currStreakLabel=94a3b8&border=6d28d9&border_radius=12" />
-
+<br/>
 </div>
 
 ---
@@ -582,7 +576,6 @@ class BatmanProtocols:
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:f43f5e,50:a855f7,100:0ea5e9&height=3" />
 
 <br/>
-[![Email](https://img.shields.io/badge/ahmadleo498@gmail.com-Email_Me-ffffff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=f43f5e&color=e11d48)](mailto:ahmadleo498@gmail.com)
 
 <br/>
 
