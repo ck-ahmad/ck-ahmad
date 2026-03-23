@@ -20,7 +20,7 @@
 <br/><br/>
 
 <!-- SOCIAL LINKS -->
-<a href="https://ahmadleo-tech.github.io/New_portfolio/">
+<a href="https://lustrous-hotteok-c22864.netlify.app/">
   <img src="https://img.shields.io/badge/🦇_Wayne_Tower-Portfolio-ffffff?style=for-the-badge&labelColor=6d28d9&color=4c1d95" />
 </a>
 <a href="https://linkedin.com/in/ahmad0763">
