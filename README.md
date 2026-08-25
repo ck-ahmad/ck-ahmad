@@ -440,6 +440,13 @@ Open to **AI/ML engineering**, **data engineering**, and **backend systems** opp
 <a href="https://linkedin.com/in/ahmad0763"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://lustrous-hotteokc22864.netlify.app/"><img src="https://img.shields.io/badge/View_Portfolio-2C5364?style=flat-square&logo=netlify&logoColor=white"/></a>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 <br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ck-ahmad&style=flat-square&color=blueviolet&label=Profile+Views)
