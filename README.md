@@ -83,7 +83,7 @@ My work generally follows one loop: **collect → clean → engineer features �
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ck-ahmad/ck-ahmad/profile-3d-contrib/profile-night-rainbow.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ck-ahmad/ck-ahmad/profile-3d-contrib/profile-south.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ck-ahmad/ck-ahmad/profile-3d-contrib/profile-green-animate.svg">
   <img src="https://raw.githubusercontent.com/ck-ahmad/ck-ahmad/profile-3d-contrib/profile-night-rainbow.svg" alt="3D isometric contribution graph" width="100%"/>
 </picture>
 
