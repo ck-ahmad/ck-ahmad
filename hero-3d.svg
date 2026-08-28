@@ -1,0 +1,71 @@
+<svg width="100%" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="45%" r="75%">
+      <stop offset="0%" stop-color="#16213e"/>
+      <stop offset="55%" stop-color="#0d0d1a"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </radialGradient>
+    <linearGradient id="cubeTop" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFD700"/>
+      <stop offset="100%" stop-color="#C9A400"/>
+    </linearGradient>
+    <linearGradient id="cubeLeft" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#8FBCBB"/>
+      <stop offset="100%" stop-color="#4C566A"/>
+    </linearGradient>
+    <linearGradient id="cubeRight" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#434C5E"/>
+      <stop offset="100%" stop-color="#1a1a2e"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="260" fill="url(#bg)"/>
+
+  <!-- orbiting rings for depth -->
+  <g transform="translate(220,130)" opacity="0.55">
+    <ellipse cx="0" cy="0" rx="150" ry="46" fill="none" stroke="#FFD700" stroke-width="1.5" opacity="0.35">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="14s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="0" cy="0" rx="150" ry="46" fill="none" stroke="#00F5FF" stroke-width="1" opacity="0.25" transform="rotate(60)">
+      <animateTransform attributeName="transform" type="rotate" from="60" to="420" dur="18s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+
+  <!-- floating isometric cube, bobbing -->
+  <g transform="translate(220,130)" filter="url(#glow)">
+    <animateTransform attributeName="transform" type="translate" values="220,130; 220,116; 220,130" dur="4s" repeatCount="indefinite"/>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="20s" repeatCount="indefinite"/>
+      <polygon points="0,-60 52,-30 52,30 0,60 -52,30 -52,-30" fill="none"/>
+      <polygon points="0,-60 52,-30 0,0 -52,-30" fill="url(#cubeTop)"/>
+      <polygon points="-52,-30 0,0 0,60 -52,30" fill="url(#cubeLeft)"/>
+      <polygon points="52,-30 0,0 0,60 52,30" fill="url(#cubeRight)"/>
+    </g>
+  </g>
+
+  <!-- particle dots -->
+  <g fill="#FFD700">
+    <circle cx="120" cy="60" r="2"><animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="360" cy="200" r="1.6"><animate attributeName="opacity" values="1;0.2;1" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="90" cy="210" r="1.8"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.6s" repeatCount="indefinite"/></circle>
+    <circle cx="400" cy="70" r="1.4"><animate attributeName="opacity" values="1;0.3;1" dur="2.8s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- terminal-style typed text on the right -->
+  <text x="480" y="110" font-family="Fira Code, monospace" font-size="30" fill="#FFD700" font-weight="700">Ahmad "Leo" Abdullah</text>
+  <text x="480" y="145" font-family="Fira Code, monospace" font-size="17" fill="#8FBCBB">AI/ML Engineer • Data Engineer • Backend Dev</text>
+  <g font-family="Fira Code, monospace" font-size="15" fill="#00F5FF">
+    <text x="480" y="180">$ status --current</text>
+    <rect x="478" y="187" width="9" height="16" fill="#00F5FF">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <text x="480" y="215" font-family="Fira Code, monospace" font-size="14" fill="#4C566A">building ML/DL pipelines · raw data to deployment</text>
+</svg>

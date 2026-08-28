@@ -1,0 +1,32 @@
+name: 3D Github Contributions
+
+on:
+  schedule:
+    - cron: "0 0 * * *"     # runs daily at midnight UTC
+  workflow_dispatch:         # lets you trigger it manually from the Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit & push generated files
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A .
+          git commit -m "chore: update 3D contribution graph" -a || echo "Nothing to commit"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
