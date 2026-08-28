@@ -28,9 +28,9 @@
   Commit assets/hero-3d.svg to the repo, then swap YOUR-USERNAME/YOUR-REPO below
   (usually YOUR-USERNAME/YOUR-USERNAME for a GitHub profile README) and branch name.
 -->
-<p align="center">
+<!-- <p align="center">
   <img width="100%" src="https://github.com/ck-ahmad/ck-ahmad/blob/main/hero-3d.svg" alt="animated 3D hero banner" />
-</p>
+</p> -->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
