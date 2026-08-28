@@ -1,27 +1,36 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,20:2c5364,40:3a0ca3,60:4361ee,80:4cc9f0,100:80ffdb&height=280&section=header&text=Ahmad%20(Leo)&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20Data%20Engineer%20%7C%20Backend%20Developer%20%7C%20Final%20Year%20CS%20%40%20FAST%20NUCES%20'27&descAlignY=52&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:1a1a2e,50:16213e,75:0f3460,100:1a1a2e&height=280&section=header&text=Ahmad%20(Leo)&fontSize=60&fontColor=FFD700&animation=fadeIn&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20Data%20Engineer%20%7C%20Backend%20Developer%20%7C%20Final%20Year%20CS%20%40%20FAST%20NUCES%20'27&descAlignY=52&descAlign=50&descColor=8FBCBB" />
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Building+ML%2FDL+pipelines+from+raw+data+to+deployment;Flask+%2B+FastAPI+%2B+REST+APIs+%2C+production-ready;3+ML%2FData+Engineering+internships+%2B+2+hackathon+wins;Author+of+autopipe+%26+driftwatch+on+PyPI;Open+to+AI%2FML+%26+backend+roles+from+2027&font=Fira+Code&center=true&width=800&height=45&color=4CC9F0&vCenter=true&size=20&pause=1300" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+ML%2FDL+pipelines+from+raw+data+to+deployment;Flask+%2B+FastAPI+%2B+REST+APIs%2C+production-ready;3%2B+ML%2FData+Engineering+internships+%2B+2+hackathon+wins;Author+of+autopipe+%26+driftwatch+on+PyPI;Open+to+AI%2FML+%26+backend+roles+from+2027&font=Fira+Code&center=true&width=800&height=45&color=FFD700&vCenter=true&size=20&pause=1300&background=00000000" />
 
 <br/>
 
-<a href="https://linkedin.com/in/ahmad0763"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:ahmadleo498@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/ck-ahmad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://lustrous-hotteokc22864.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-2C5364?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+<a href="https://linkedin.com/in/ahmad0763"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700"/></a>
+<a href="mailto:ahmadleo498@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FFD700"/></a>
+<a href="https://github.com/ck-ahmad"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFD700"/></a>
+<a href="https://lustrous-hotteokc22864.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=FFD700"/></a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Open%20to-Internships%20%7C%20Full--Time%202027-success?style=flat-square"/>
-<img src="https://img.shields.io/badge/Hackathons%20Won-2-brightgreen?style=flat-square"/>
-<img src="https://img.shields.io/badge/PyPI%20Packages-2-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Internships-6%2B-orange?style=flat-square"/>
-<img src="https://img.shields.io/badge/GSSoC-2026-blueviolet?style=flat-square"/>
+<img src="https://img.shields.io/badge/Open%20to-Internships%20%7C%20Full--Time%202027-FFD700?style=flat-square&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Hackathons%20Won-2-FFD700?style=flat-square&labelColor=000000"/>
+<img src="https://img.shields.io/badge/PyPI%20Packages-2-FFD700?style=flat-square&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Internships-6%2B-FFD700?style=flat-square&labelColor=000000"/>
+<img src="https://img.shields.io/badge/GSSoC-2026-FFD700?style=flat-square&labelColor=000000"/>
 
 </div>
 
 <br/>
+
+<!--
+  ⬇ Custom animated 3D hero (floating rotating cube + orbit rings + terminal cursor).
+  Commit assets/hero-3d.svg to the repo, then swap YOUR-USERNAME/YOUR-REPO below
+  (usually YOUR-USERNAME/YOUR-USERNAME for a GitHub profile README) and branch name.
+-->
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/ck-ahmad/ck-ahmad/main/assets/hero-3d.svg" alt="animated 3D hero banner" />
+</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -68,6 +77,24 @@ My work generally follows one loop: **collect → clean → engineer features �
 
 <div align="center">
 
+## 🧊 3D Contribution Grid
+
+*A literal rotating isometric render of the commit graph below — generated nightly by the workflow in <code>.github/workflows/profile-3d-contrib.yml</code> included in this repo.*
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ck-ahmad/ck-ahmad/profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ck-ahmad/ck-ahmad/profile-3d-contrib/profile-south.svg">
+  <img src="https://raw.githubusercontent.com/ck-ahmad/ck-ahmad/profile-3d-contrib/profile-night-rainbow.svg" alt="3D isometric contribution graph" width="100%"/>
+</picture>
+
+<sub>First render appears after the workflow's first run — trigger it once manually from the <b>Actions</b> tab if it's blank.</sub>
+
+</div>
+
+---
+
+<div align="center">
+
 ## 🧭 Experience Timeline
 
 </div>
@@ -103,28 +130,27 @@ My work generally follows one loop: **collect → clean → engineer features �
 
 **AI / ML / Data**
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-2196F3?style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=FFD700)
+![XGBoost](https://img.shields.io/badge/XGBoost-000000?style=for-the-badge&logoColor=FFD700)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=FFD700)
+![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-000000?style=for-the-badge&logoColor=FFD700)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=FFD700)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=FFD700)
 
 **Data Engineering & Cloud**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge\&logo=apachespark\&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge\&logo=databricks\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD700)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=FFD700)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-000000?style=for-the-badge&logo=apachespark&logoColor=FFD700)
+![Databricks](https://img.shields.io/badge/Databricks-000000?style=for-the-badge&logo=databricks&logoColor=FFD700)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=FFD700)
 
 **Vector Search & Scraping**
 
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge&logoColor=FFD700)
+![Qdrant](https://img.shields.io/badge/Qdrant-000000?style=for-the-badge&logo=qdrant&logoColor=FFD700)
+![Playwright](https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=FFD700)
+![Selenium](https://img.shields.io/badge/Selenium-000000?style=for-the-badge&logo=selenium&logoColor=FFD700)
 
 </div>
 
@@ -151,7 +177,7 @@ My work generally follows one loop: **collect → clean → engineer features �
 | 9 | NDVF — Ticker Classification | **97% test accuracy**, 10-class, 2015–present corpus |
 | 10 | News Classification (Bi-LSTM) | V7: **87.44%** test / 98.79% train (GloVe + attention pooling) |
 
-`Best Accuracy ` ![](https://geps.dev/progress/97?dangerColor=800000&warningColor=ff9900&successColor=006600) `NDVF · 10-class ticker ID`
+`Best Accuracy ` ![](https://geps.dev/progress/97?dangerColor=1a1a1a&warningColor=8FBCBB&successColor=FFD700) `NDVF · 10-class ticker ID`
 
 📎 *Full write-up with architecture, benchmarks, and problem/fix logs lives in the [`AI-MLTasksInSummer`](https://github.com/ck-ahmad) repo README.*
 
@@ -212,7 +238,7 @@ My work generally follows one loop: **collect → clean → engineer features �
 
 ## 🏆 Achievements & Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=ck-ahmad&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=ck-ahmad&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" />
 
 🥇 Bay2BayHacks 2025 &nbsp;·&nbsp; 🥇 WebMind Innovation Hackathon 2025 &nbsp;·&nbsp; 🎖️ IIT Kanpur TechFest Top 10 &nbsp;·&nbsp; 🥉 American Education International Hackathon
 
@@ -232,14 +258,14 @@ My work generally follows one loop: **collect → clean → engineer features �
 
 | Stat | Level |
 |---|---|
-| 🐍 Python | ![](https://geps.dev/progress/92?dangerColor=800000&warningColor=ff9900&successColor=4cc9f0) |
-| 🤖 Machine Learning | ![](https://geps.dev/progress/85?dangerColor=800000&warningColor=ff9900&successColor=4cc9f0) |
-| 🧠 Deep Learning | ![](https://geps.dev/progress/75?dangerColor=800000&warningColor=ff9900&successColor=4cc9f0) |
-| ⚙️ Backend (Flask/FastAPI) | ![](https://geps.dev/progress/88?dangerColor=800000&warningColor=ff9900&successColor=4cc9f0) |
-| 🗄️ Data Engineering (ETL/Databricks) | ![](https://geps.dev/progress/80?dangerColor=800000&warningColor=ff9900&successColor=4cc9f0) |
-| 🔗 Vector Search / RAG | ![](https://geps.dev/progress/78?dangerColor=800000&warningColor=ff9900&successColor=4cc9f0) |
-| 🥷 Web Scraping / Automation | ![](https://geps.dev/progress/90?dangerColor=800000&warningColor=ff9900&successColor=4cc9f0) |
-| 🌐 C++ / DSA | ![](https://geps.dev/progress/70?dangerColor=800000&warningColor=ff9900&successColor=4cc9f0) |
+| 🐍 Python | ![](https://geps.dev/progress/92?dangerColor=1a1a1a&warningColor=8FBCBB&successColor=FFD700) |
+| 🤖 Machine Learning | ![](https://geps.dev/progress/85?dangerColor=1a1a1a&warningColor=8FBCBB&successColor=FFD700) |
+| 🧠 Deep Learning | ![](https://geps.dev/progress/75?dangerColor=1a1a1a&warningColor=8FBCBB&successColor=FFD700) |
+| ⚙️ Backend (Flask/FastAPI) | ![](https://geps.dev/progress/88?dangerColor=1a1a1a&warningColor=8FBCBB&successColor=FFD700) |
+| 🗄️ Data Engineering (ETL/Databricks) | ![](https://geps.dev/progress/80?dangerColor=1a1a1a&warningColor=8FBCBB&successColor=FFD700) |
+| 🔗 Vector Search / RAG | ![](https://geps.dev/progress/78?dangerColor=1a1a1a&warningColor=8FBCBB&successColor=FFD700) |
+| 🥷 Web Scraping / Automation | ![](https://geps.dev/progress/90?dangerColor=1a1a1a&warningColor=8FBCBB&successColor=FFD700) |
+| 🌐 C++ / DSA | ![](https://geps.dev/progress/70?dangerColor=1a1a1a&warningColor=8FBCBB&successColor=FFD700) |
 
 </div>
 
@@ -269,12 +295,12 @@ My work generally follows one loop: **collect → clean → engineer features �
 
 **🧰 Stack in Practice**
 
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Databricks](https://img.shields.io/badge/Databricks-000000?style=flat-square&logo=databricks&logoColor=FFD700)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-000000?style=flat-square&logo=oracle&logoColor=FFD700)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=FFD700)
+![Snowflake](https://img.shields.io/badge/Snowflake-000000?style=flat-square&logo=snowflake&logoColor=FFD700)
+![Azure](https://img.shields.io/badge/Azure-000000?style=flat-square&logo=microsoftazure&logoColor=FFD700)
+![Power BI](https://img.shields.io/badge/Power_BI-000000?style=flat-square&logo=powerbi&logoColor=FFD700)
 
 **🔁 Typical Pipeline Flow**
 
@@ -305,9 +331,6 @@ My work generally follows one loop: **collect → clean → engineer features �
 
 <br/>
 
-
-<br/>
-
 <div align="center">
 
 ### 🎯 Day-to-Day as an AI/ML Engineer @ CoderAxo
@@ -331,10 +354,10 @@ My work generally follows one loop: **collect → clean → engineer features �
 
 **🧰 Stack in Practice**
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=flat-square&logo=scikitlearn&logoColor=FFD700)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=FFD700)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=flat-square&logo=numpy&logoColor=FFD700)
+![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=flat-square&logo=streamlit&logoColor=FFD700)
 
 **🔁 End-to-End ML Pipeline**
 
@@ -419,11 +442,11 @@ The deep-learning counterpart to the classical News Category Classification proj
 
 <div align="center">
 
-![SQL](https://img.shields.io/badge/SQL%20Full%20Course-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![NumPy](https://img.shields.io/badge/Intro%20to%20NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis%20with%20Python-306998?style=flat-square&logo=python&logoColor=white)
-![Python Basics](https://img.shields.io/badge/Python%20For%20Beginners-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL%20Full%20Course-000000?style=flat-square&logo=mysql&logoColor=FFD700)
+![NumPy](https://img.shields.io/badge/Intro%20to%20NumPy-000000?style=flat-square&logo=numpy&logoColor=FFD700)
+![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-000000?style=flat-square&logo=tailwindcss&logoColor=FFD700)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis%20with%20Python-000000?style=flat-square&logo=python&logoColor=FFD700)
+![Python Basics](https://img.shields.io/badge/Python%20For%20Beginners-000000?style=flat-square&logo=python&logoColor=FFD700)
 
 **🎓 Education:** BS Computer Science, National University of Computer and Emerging Sciences (FAST NUCES) · Aug 2023 – Jul 2027
 **🌐 Languages:** English · Urdu
@@ -438,9 +461,9 @@ The deep-learning counterpart to the classical News Category Classification proj
 
 Open to **AI/ML engineering**, **data engineering**, and **backend systems** opportunities from 2027 onward.
 
-<a href="mailto:ahmadleo498@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/ahmad0763"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://lustrous-hotteokc22864.netlify.app/"><img src="https://img.shields.io/badge/View_Portfolio-2C5364?style=flat-square&logo=netlify&logoColor=white"/></a>
+<a href="mailto:ahmadleo498@gmail.com"><img src="https://img.shields.io/badge/Email_Me-000000?style=flat-square&logo=gmail&logoColor=FFD700"/></a>
+<a href="https://linkedin.com/in/ahmad0763"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=FFD700"/></a>
+<a href="https://lustrous-hotteokc22864.netlify.app/"><img src="https://img.shields.io/badge/View_Portfolio-000000?style=flat-square&logo=netlify&logoColor=FFD700"/></a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
@@ -448,13 +471,12 @@ Open to **AI/ML engineering**, **data engineering**, and **backend systems** opp
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ck-ahmad&style=flat-square&color=blueviolet&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=ck-ahmad&style=flat-square&color=FFD700&label=Profile+Views)
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:80ffdb,20:4cc9f0,40:4361ee,60:3a0ca3,80:2c5364,100:0f2027&height=140&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,25:0f3460,50:16213e,75:1a1a2e,100:000000&height=140&section=footer" />
 
 </div>
