@@ -31,10 +31,11 @@
 
 ## 👋 About Me
 
-I'm a final-year **Computer Science** student at **FAST NUCES (2023–2027)**, based in Pakistan, currently working across **AI/ML engineering, data engineering, and backend systems**. Over the past year I've rotated through six internships and freelance engagements — building classification/recommendation models, NLP pipelines, ETL/ELT data warehouses, and semantic-search systems — then shipping them behind **Flask** and **FastAPI** REST APIs.
+I'm a final-year **Computer Science** student at **FAST NUCES (2023–2027)**, based in Pakistan, currently working across **AI/ML engineering, data engineering, and backend systems**. Over the past year I've rotated through six-plus internships and freelance/contract engagements — building classification/recommendation models, NLP pipelines, ETL/ELT data warehouses, and semantic-search systems — then shipping them behind **Flask** and **FastAPI** REST APIs.
 
-My work generally follows one loop: **collect → clean → engineer features → embed/model → deploy → monitor.** I've run that loop on news articles (scraping → classification → Bi-LSTM), financial data (NDVF ticker classification), e-commerce interactions (recommendation systems), and academic papers (semantic search over 287K arXiv records) — so the domain changes, but the pipeline discipline stays the same. Outside of internships, I write about what I build, keep two ML tooling packages live on PyPI, and spend a chunk of weekends on DSA and system design through mentorship programs.
+My work generally follows one loop: **collect → clean → engineer features → embed/model → deploy → monitor.** I've run that loop on news articles (scraping → classification → Bi-LSTM), financial data (NDVF ticker classification), e-commerce interactions (recommendation systems), and academic papers (semantic search + RAG over ~300K arXiv records) — so the domain changes, but the pipeline discipline stays the same. Outside of internships, I write about what I build, keep two ML tooling packages live on PyPI, and spend a chunk of weekends on DSA and system design through mentorship programs.
 
+- 🔭 Currently: **Jr AI/ML Engineer (Contract) @ Web3 Geeks** — parent company **Netixsol**
 - 🔭 Currently: **AI/ML Trainee Intern @ LimeoX LLC** — data pipelines → embeddings → ML/DL models → REST APIs
 - 🗄️ Currently: **Data Engineer @ Helmes** — ETL/ELT pipelines, warehousing, Databricks / Snowflake / Azure
 - 🧑‍💼 **Board of Directors @ Afrium** — Pakistan's first undergraduate AI research organization (previously Founding Campus Ambassador)
@@ -57,7 +58,7 @@ My work generally follows one loop: **collect → clean → engineer features �
 
 | Focus | Why |
 |---|---|
-| 🔗 **RAG & LLM orchestration** (LangChain / LangGraph) | Rounding out the retrieval work already shipped (SBERT, ChromaDB, Qdrant) with a full retrieve → augment → generate loop |
+| 🔗 **RAG & LLM orchestration** (LangChain / LangGraph) | Rounding out the retrieval work already shipped (SBERT, ChromaDB, Qdrant, RAG on the arXiv search engine) with a full retrieve → augment → generate loop |
 | 🐳 **MLOps polish** (Docker, CI/CD, model monitoring) | Moving projects from "runs locally" to "deployable and observable" |
 | 🧵 **Agentic workflows** | Chaining tool-calling + retrieval into multi-step automation rather than single-shot prompts |
 
@@ -73,6 +74,7 @@ My work generally follows one loop: **collect → clean → engineer features �
 
 <table>
 <tr><th>When</th><th>Role</th><th>Focus</th></tr>
+<tr><td><code>Aug 2026 – Present</code></td><td><b>Jr AI/ML Engineer</b> — Web3 Geeks (contract; parent company: Netixsol)</td><td>Contract-based AI/ML engineering work</td></tr>
 <tr><td><code>Jul 2026 – Present</code></td><td><b>Director, Board of Directors</b> — Afrium</td><td>Strategic direction & governance for Pakistan's first undergraduate AI research org</td></tr>
 <tr><td><code>Jul 2026 – Aug 2026</code></td><td><b>AI/ML Trainee Intern</b> — LimeoX LLC</td><td>Stealth scraping pipelines, embeddings/semantic search, ML→DL model development, REST deployment</td></tr>
 <tr><td><code>Jun 2026 – Aug 2026</code></td><td><b>Data Engineer</b> — Helmes</td><td>ETL/ELT pipelines, data warehouses, Databricks/Snowflake/Azure/AWS/GCP, BI dashboards</td></tr>
@@ -143,7 +145,7 @@ My work generally follows one loop: **collect → clean → engineer features �
 | 1–2 | Scraping (basic → 5-phase stealth) | 30+ outlets, anti-detection handling |
 | 3 | SQL & ETL Pipeline | 1,400+ cleaned records → PostgreSQL |
 | 4–5 | Feature Engineering + Embeddings | 9-category features, 1,972 docs in 3-way Chroma vectors |
-| 6 | AI Research Paper Search Engine | 287K arXiv papers indexed in Qdrant |
+| 6 | AI Research Paper Search Engine + RAG | ~300K arXiv papers embedded (SBERT), semantic search + LLM-grounded RAG answers |
 | 7 | Views Prediction (Regression) | R² = 0.911, ~93.8% tolerance accuracy |
 | 8 | News Category Classification | 90% accuracy, 6-class balanced ensemble |
 | 9 | NDVF — Ticker Classification | **97% test accuracy**, 10-class, 2015–present corpus |
