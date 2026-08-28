@@ -81,13 +81,9 @@ My work generally follows one loop: **collect → clean → engineer features �
 
 *A literal rotating isometric render of the commit graph below — generated nightly by the workflow in <code>.github/workflows/profile-3d-contrib.yml</code> included in this repo.*
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ck-ahmad/ck-ahmad/profile-3d-contrib/profile-night-rainbow.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ck-ahmad/ck-ahmad/profile-3d-contrib/profile-green-animate.svg">
-  <img src="https://raw.githubusercontent.com/ck-ahmad/ck-ahmad/profile-3d-contrib/profile-night-rainbow.svg" alt="3D isometric contribution graph" width="100%"/>
-</picture>
+<div align="center">
 
-<sub>First render appears after the workflow's first run — trigger it once manually from the <b>Actions</b> tab if it's blank.</sub>
+<img src="https://raw.githubusercontent.com/ck-ahmad/ck-ahmad/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
 
 </div>
 
